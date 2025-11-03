@@ -23,6 +23,10 @@
     <a href="https://twitter.com/NewtonnnNI" style="text-decoration:none;">
       <img src="https://img.shields.io/badge/Twitter-NewtonnnNI-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
     </a>
+    <a href="https://wa.me/5511976602720" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/WhatsApp-Chat-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    </a>
+  </p>
 
   <!-- Linguagens que você domina -->
   <p>
