@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <!-- 🚀ABNER Typing + Glitch -->
+  <!-- ABNER Typing + Glitch -->
   <h1 style="
     font-family: 'Courier New', monospace;
     font-size: 4em;
@@ -12,7 +12,7 @@
     position: relative;
     animation: glitch 1s infinite;
   ">
-    ABNER
+    🔌ABNER💻
   </h1>
 
   <!-- Botões Redes Sociais -->
