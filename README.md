@@ -10,7 +10,7 @@
     font-size: 4em;
     color: #0ff;
     position: relative;
-    animation: glitch 1s infinite;
+    animation: glitch 1s infinite, pulse 2s infinite;
   ">
     ABNER
   </h1>
@@ -29,21 +29,11 @@
   </p>
 
   <!-- Linguagens que você domina -->
-  <p>
+  <p class="badge-group">
     <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Ruby-%23CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Kotlin-%23A97BFF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Rust-%23DEA584?style=for-the-badge&logo=rust&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Swift-%23F05138?style=for-the-badge&logo=swift&logoColor=white"/>
   </p>
 
   <!-- Sobre mim -->
@@ -61,24 +51,17 @@
 + Desenvolvedor Full Stack & Freelancer
   </pre>
 
-  <!-- Cobrinha Animada -->
-  <div style="
-    width: 300px;
-    height: 20px;
-    background: #111;
-    border-radius: 10px;
-    position: relative;
-    margin: 20px auto;
-    overflow: hidden;
-  ">
-    <div style="
-      width: 20px;
-      height: 20px;
-      background: #0ff;
-      border-radius: 50%;
-      position: absolute;
-      animation: snakeMove 3s linear infinite;
-    "></div>
+  <!-- Gráfico animado -->
+  <div class="chart-container">
+    <div class="chart-bar" style="--height:80%"></div>
+    <div class="chart-bar" style="--height:60%"></div>
+    <div class="chart-bar" style="--height:90%"></div>
+    <div class="chart-bar" style="--height:50%"></div>
+  </div>
+
+  <!-- Cobrinha Animada (agora andando em volta do gráfico) -->
+  <div class="snake-track">
+    <div class="snake"></div>
   </div>
 
 </div>
@@ -98,6 +81,12 @@
   100% { text-shadow: 0 0 #f0f, 0 0 #0ff; }
 }
 
+/* Pulsar cores do título */
+@keyframes pulse {
+  0%, 100% { color: #0ff; }
+  50% { color: #f0f; }
+}
+
 /* Piscar texto Sobre Mim */
 @keyframes blink {
   0%, 50%, 100% { opacity: 1; }
@@ -106,10 +95,71 @@
 
 /* Cobrinha andando */
 @keyframes snakeMove {
-  0% { left: -20px; background: #0ff; }
+  0% { left: -20px; top: 0; background: #0ff; }
   25% { background: #f0f; }
-  50% { left: 280px; background: #ff0; }
+  50% { left: 280px; top: 0; background: #ff0; }
   75% { background: #f0f; }
-  100% { left: -20px; background: #0ff; }
+  100% { left: -20px; top: 0; background: #0ff; }
+}
+
+/* Gráficos animados */
+.chart-container {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin: 20px auto;
+  width: 300px;
+  height: 100px;
+  position: relative;
+}
+.chart-bar {
+  width: 20px;
+  background: linear-gradient(45deg,#0ff,#f0f,#ff0);
+  border-radius: 5px;
+  height: 0;
+  animation: grow 2s forwards infinite alternate;
+}
+.chart-bar:nth-child(1) { animation-delay: 0s; }
+.chart-bar:nth-child(2) { animation-delay: 0.3s; }
+.chart-bar:nth-child(3) { animation-delay: 0.6s; }
+.chart-bar:nth-child(4) { animation-delay: 0.9s; }
+@keyframes grow {
+  0% { height: 0; }
+  100% { height: var(--height); }
+}
+
+/* Cobrinha andando em volta do gráfico */
+.snake-track {
+  width: 320px;
+  height: 120px;
+  position: relative;
+  margin: 20px auto;
+  border: 2px dashed #0ff;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.snake {
+  width: 20px;
+  height: 20px;
+  background: #0ff;
+  border-radius: 50%;
+  position: absolute;
+  animation: snakeAround 4s linear infinite;
+}
+@keyframes snakeAround {
+  0% { top: 0; left: 0; background: #0ff; }
+  25% { top: 0; left: 300px; background: #f0f; }
+  50% { top: 100px; left: 300px; background: #ff0; }
+  75% { top: 100px; left: 0; background: #f0f; }
+  100% { top: 0; left: 0; background: #0ff; }
+}
+
+/* Badges pulsantes */
+.badge-group img {
+  transition: transform 0.3s, filter 0.3s;
+}
+.badge-group img:hover {
+  transform: scale(1.2) rotate(-5deg);
+  filter: brightness(1.5);
 }
 </style>
