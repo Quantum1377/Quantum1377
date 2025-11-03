@@ -66,7 +66,6 @@
 + Especialista em Engenharia da Computação e Ciência da Computação
 + Desenvolvedor Full Stack & Freelancer
 + Crio soluções avançadas para comércios
-- ⚠️ Este README é Cyberpunk Ultra Animado
   </pre>
 
 </div>
