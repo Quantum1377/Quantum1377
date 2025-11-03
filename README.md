@@ -26,9 +26,9 @@
 </p>
 
 
-### 🚀 Um pouco sobre mim
-Sou um desenvolvedor apaixonado por tecnologia e aprendizado constante.  
-Atualmente programo nas principais linguagens e adoro criar projetos inovadores!
+### 🚀 About for me
+
+
 
 ---
 
