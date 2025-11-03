@@ -71,23 +71,6 @@
 
 </div>
 
-<!-- CSS Animations -->
-<style>
-@keyframes glitch {
-  0% { text-shadow: 2px 0 #f0f, -2px 0 #0ff; }
-  20% { text-shadow: -2px 2px #f0f, 2px -2px #0ff; }
-  40% { text-shadow: 2px -2px #f0f, -2px 2px #0ff; }
-  60% { text-shadow: -2px 0 #f0f, 2px 0 #0ff; }
-  80% { text-shadow: 2px 2px #f0f, -2px -2px #0ff; }
-  100% { text-shadow: 0 0 #f0f, 0 0 #0ff; }
-}
-
-@keyframes blink {
-  0%, 50%, 100% { opacity: 1; }
-  25%, 75% { opacity: 0.3; }
-}
-</style>
-
 <!-- ========================== -->
 <!--      ABNER README END       -->
 <!-- ========================== -->
