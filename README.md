@@ -21,7 +21,27 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&langs_count=8&theme=radical" />
 </div>
 
+### 💻 Linguagens e Tempo de Codificação
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SEU_WAKATIME_USERNAME&layout=compact&theme=radical" height="180em" />
+</div>
+
 ---
+
+### ⏱️ Tempo total de codificação (última semana)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+### 🌀 Snake animation
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 
 ### 🚀 Um pouco sobre mim
 Sou um desenvolvedor apaixonado por tecnologia e aprendizado constante.  
