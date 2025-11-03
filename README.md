@@ -78,38 +78,4 @@
       border-radius: 50%;
       position: absolute;
       animation: snakeMove 3s linear infinite;
-    "></div>
-  </div>
-
-</div>
-
-<!-- ========================== -->
-<!--      ABNER README END       -->
-<!-- ========================== -->
-
-<style>
-/* Glitch ABNER */
-@keyframes glitch {
-  0% { text-shadow: 2px 0 #f0f, -2px 0 #0ff; }
-  20% { text-shadow: -2px 2px #f0f, 2px -2px #0ff; }
-  40% { text-shadow: 2px -2px #f0f, -2px 2px #0ff; }
-  60% { text-shadow: -2px 0 #f0f, 2px 0 #0ff; }
-  80% { text-shadow: 2px 2px #f0f, -2px -2px #0ff; }
-  100% { text-shadow: 0 0 #f0f, 0 0 #0ff; }
-}
-
-/* Piscar texto Sobre Mim */
-@keyframes blink {
-  0%, 50%, 100% { opacity: 1; }
-  25%, 75% { opacity: 0.3; }
-}
-
-/* Cobrinha andando */
-@keyframes snakeMove {
-  0% { left: -20px; background: #0ff; }
-  25% { background: #f0f; }
-  50% { left: 280px; background: #ff0; }
-  75% { background: #f0f; }
-  100% { left: -20px; background: #0ff; }
-}
-</style>
+    
