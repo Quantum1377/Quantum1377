@@ -1,4 +1,4 @@
-### 💻 Linguagens e Tecnologias
+### 💻 Linguages and programs
 
 <div align="center">
   <!-- Linguagens principais -->
@@ -27,6 +27,20 @@
 
 
 ### 🚀 About for me
+I'm a **Computer Engineer** and **Computer Scientist** passionate about building efficient, scalable, and creative software solutions.  
+My work bridges **hardware, software, and data**, combining technical depth with problem-solving skills.
+
+
+💻 I specialize in:
+- **Software Development** — from backend systems to user interfaces  
+- **Algorithms & Data Structures** — focusing on performance and scalability  
+- **Computer Architecture & Embedded Systems** — understanding how hardware and software interact  
+- **Artificial Intelligence & Data Science** — exploring how data drives innovation  
+
+🚀 Currently, I’m working on:
+- Developing **software projects** using modern languages and frameworks  
+- Expanding my skills in **cloud computing** and **machine learning**  
+- Contributing to **open-source projects** that make a difference  
 
 
 
