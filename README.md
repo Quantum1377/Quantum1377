@@ -1,101 +1,97 @@
-<!-- 💫 README Cyberpunk Ultra Animado - Abner Ananias -->
-
-<h1 align="center">
-  ⚡ <span style="color:#ff00ff;">Abner Ananias</span> ⚡<br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00FFF0&center=true&vCenter=true&width=800&lines=🚀+Desenvolvedor+Web+Full+Stack;💻+Engenharia+de+Software+e+Ciência+da+Computação;🌈+Criando+Experiências+Digitais+Cyberpunk;🔥+Transformando+Ideias+em+Tecnologia!">
-</h1>
-
----
-
-### 🧠 Sobre Mim
-Sou um desenvolvedor apaixonado por **tecnologia**, **design futurista** e **sistemas inteligentes**.  
-Atuo com **engenharia de software** e **ciência da computação**, desenvolvendo soluções completas, seguras e visualmente impactantes.  
-
-💬 Explorando novas linguagens e frameworks  
-⚙️ Criando sistemas que unem performance e design  
-🌈 Inspirado pela estética cyberpunk e inovação  
-🚀 Sempre buscando o próximo nível
-
----
-
-### 🚀 Tecnologias Favoritas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,python,mysql,git,github,vscode,figma,linux,bootstrap,tailwind&theme=light" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbnerAnanias&theme=radical&no-frame=true&margin-w=15">
-</p>
-
----
-
-### ⚡ Estatísticas do GitHub
+<!-- ========================== -->
+<!--      ABRN README START      -->
+<!-- ========================== -->
 
 <div align="center">
 
-![Abner's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbnerAnanias&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbnerAnanias&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbnerAnanias&theme=neon-palenight&hide_border=true)
+  <!-- ABRN Typing + Glitch -->
+  <h1 style="
+    font-family: 'Courier New', monospace;
+    font-size: 4em;
+    color: #0ff;
+    position: relative;
+    animation: glitch 1s infinite;
+  ">
+    ABRN
+  </h1>
+
+  <svg width="0" height="0">
+    <defs>
+      <filter id="glitch">
+        <feColorMatrix in="SourceGraphic" type="matrix"
+          values="1 0 0 0 0
+                  0 1 0 0 0
+                  0 0 1 0 0
+                  0 0 0 1 0"/>
+      </filter>
+    </defs>
+  </svg>
+
+  <!-- Animated Neon Cobras -->
+  <div style="display:flex; justify-content:center; gap:20px; margin:20px;">
+    <div style="width:100px; height:100px; border-radius:50%; border: 4px solid #0ff; box-shadow: 0 0 10px #0ff; animation: snake 2s infinite;"></div>
+    <div style="width:100px; height:100px; border-radius:50%; border: 4px solid #f0f; box-shadow: 0 0 10px #f0f; animation: snake 2.2s infinite;"></div>
+    <div style="width:100px; height:100px; border-radius:50%; border: 4px solid #ff0; box-shadow: 0 0 10px #ff0; animation: snake 2.5s infinite;"></div>
+  </div>
+
+  <!-- Terminal Sobre Mim -->
+  <pre style="
+    background: rgba(0,0,0,0.8);
+    padding: 20px;
+    border-radius: 10px;
+    color:#0ff;
+    font-family: 'Courier New', monospace;
+    font-size: 1em;
+    animation: blink 1s infinite;
+  ">
++ Olá, eu sou ABRN
++ Desenvolvedor Full Stack & Freelancer
++ Crio soluções personalizadas para comércios
+- ⚠️ Este README é Cyberpunk Ultra Animado
+  </pre>
+
+  <!-- Badges -->
+  <p>
+    <a href="https://github.com/Quantum1337">
+      <img src="https://img.shields.io/badge/GitHub-Quantum1337-%2300ffff?style=for-the-badge&logo=github&logoColor=black&labelColor=111111"/>
+    </a>
+    <a href="https://twitter.com/NewtonnnNI">
+      <img src="https://img.shields.io/badge/Twitter-NewtonnnNI-%2300ffff?style=for-the-badge&logo=twitter&logoColor=black&labelColor=111111"/>
+    </a>
+    <a href="https://wa.me/5511976602720">
+      <img src="https://img.shields.io/badge/WhatsApp-Chat-%2300ffff?style=for-the-badge&logo=whatsapp&logoColor=black&labelColor=111111"/>
+    </a>
+  </p>
+
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Quantum1337&show_icons=true&theme=tokyonight" alt="ABRN GitHub Stats" style="margin:20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantum1337&layout=compact&theme=tokyonight" alt="ABRN Top Languages"/>
 
 </div>
 
----
+<!-- CSS Animations -->
+<style>
+@keyframes glitch {
+  0% { text-shadow: 2px 0 #f0f, -2px 0 #0ff; }
+  20% { text-shadow: -2px 2px #f0f, 2px -2px #0ff; }
+  40% { text-shadow: 2px -2px #f0f, -2px 2px #0ff; }
+  60% { text-shadow: -2px 0 #f0f, 2px 0 #0ff; }
+  80% { text-shadow: 2px 2px #f0f, -2px -2px #0ff; }
+  100% { text-shadow: 0 0 #f0f, 0 0 #0ff; }
+}
 
-### 🕹️ Atividade Recente
+@keyframes snake {
+  0% { transform: translateY(0) rotate(0deg); }
+  50% { transform: translateY(-20px) rotate(180deg); }
+  100% { transform: translateY(0) rotate(360deg); }
+}
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbnerAnanias&theme=tokyo-night&bg_color=0D1117&hide_border=true)
+@keyframes blink {
+  0%, 50%, 100% { opacity: 1; }
+  25%, 75% { opacity: 0.3; }
+}
+</style>
 
----
-
-### 🐍 Cobrinhas Animadas — Multiverso
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/AbnerAnanias/AbnerAnanias/blob/output/github-contribution-grid-snake.svg" alt="snake animation alt"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="snake 2"/>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800">
-</p>
-
----
-
-### 🎇 Outras Animações e Efeitos
-
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=AbnerAnanias&data=followers,repositories,stars,commits&theme=radical" />
-  <img src="https://media.tenor.com/Zg7bM7dlm2AAAAAC/cyberpunk.gif" width="600">
-</p>
-
----
-
-### 📫 Contato & Redes
-
-<p align="center">
-  <a href="https://github.com/AbnerAnanias"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-ff00ff?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-
----
-
-### ⚙️ Sistema Cibernético Ativo
-
-```text
-Inicializando Sistema... ██████████████░░░░░░ 85%
-Ativando Cobrinhas... 🐍🐍🐍🐍🐍🐍 COMPLETO!
-Sincronizando Rede Cyberpunk... ⚡ ONLINE!
-Status: ✅ Sistema Totalmente Animado
+<!-- ========================== -->
+<!--      ABRN README END        -->
+<!-- ========================== -->
