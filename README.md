@@ -65,7 +65,6 @@
 + Olá, eu sou Abner
 + Especialista em Engenharia da Computação e Ciência da Computação
 + Desenvolvedor Full Stack & Freelancer
-+ Crio soluções avançadas para comércios
   </pre>
 
 </div>
