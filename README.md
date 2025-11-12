@@ -11,8 +11,6 @@
     color: #0ff;
     position: relative;
     animation: glitch 1s infinite;
-  ">
-    🔌ABNER💻
   </h1>
 
   <!-- Botões Redes Sociais -->
