@@ -53,10 +53,7 @@
     font-family: 'Courier New', monospace;
     font-size: 1em;
     animation: blink 1s infinite;
-  ">
-+ Olá, eu sou Abner
-+ Especialista em Engenharia da Computação e Ciência da Computação
-+ Desenvolvedor Full Stack & Freelancer
+  
   </pre>
 
   <!-- Cobrinha Animada -->
