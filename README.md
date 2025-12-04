@@ -8,7 +8,7 @@
 
 ---
 
-### 🛠️ Tech Stack (Symbols Only)
+### 🛠️ Tech Stack 
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -57,41 +57,7 @@ Hi! 👋 I'm **Abner Ananias**, passionate about creating modern and functional 
 - **Custom Code**: Advanced integrations with HTML, CSS, JavaScript, and external APIs.  
 
 ---
-
-## 🛠 Tools & Technologies
-
-| Tool / Technology | Proficiency |
-|------------------|------------|
-| Webflow           | ★★★★★     |
-| HTML & CSS        | ★★★★☆     |
-| JavaScript        | ★★★★☆     |
-| TypeScript        | ★★★★☆     |
-| Figma             | ★★★★☆     |
-| Adobe XD          | ★★★★☆     |
-| Photoshop         | ★★★★☆     |
-| Illustrator       | ★★★★☆     |
-| Bootstrap         | ★★★★☆     |
-| Tailwind CSS      | ★★★★☆     |
-| React             | ★★★★☆     |
-| Next.js           | ★★★★☆     |
-| Git & GitHub      | ★★★★★     |
-| Node.js           | ★★★★☆     |
-| Express.js        | ★★★★☆     |
-| REST APIs         | ★★★★☆     |
-| GraphQL           | ★★★☆☆     |
-| Zapier            | ★★★☆☆     |
-| Airtable          | ★★★★☆     |
-| Webflow CMS       | ★★★★★     |
-| Shopify           | ★★★★☆     |
-| WordPress         | ★★★★☆     |
-| SEO Tools         | ★★★★☆     |
-| Google Analytics  | ★★★★☆     |
-| Hotjar            | ★★★☆☆     |
-| Cloudflare        | ★★★★☆     |
-| VS Code           | ★★★★★     |
-| Chrome DevTools   | ★★★★★     |
-| Jira / Trello     | ★★★★☆     |
-
+## 🔗 Connect with me Feel free to reach out via **Twitter, WhatsApp or Instagram**. Let's collaborate on awesome projects! 🚀
 ---
 
 💬 **Feel free to reach out to discuss Webflow, UX, or front-end development!**
