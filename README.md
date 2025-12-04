@@ -73,4 +73,3 @@
       border-radius: 50%;
       position: absolute;
       animation: snakeMove 3s linear infinite;
-    
