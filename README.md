@@ -1,4 +1,3 @@
-![código-fonte do desktop e papel de parede por codificação e programação.](pt.vecteezy.com)
 # Hi there 👋, I am Abner
 
 🚀 Full Stack Developer | Open Source Enthusiast | Always learning
@@ -43,5 +42,57 @@
 
 ---
 
-### 🔗 Connect with me
-Feel free to reach out via **Twitter, WhatsApp or Instagram**. Let's collaborate on awesome projects! 🚀
+# 🌐 dev full Stack
+
+Hi! 👋 I'm **Abner Ananias**, passionate about creating modern and functional digital experiences. I specialize in turning ideas into elegant, responsive, and high-performance websites using **Webflow**.
+
+---
+
+## 🚀 dev full Skills
+
+- **Responsive Design**: Layouts that adapt to any screen, from mobile to desktop.  
+- **CMS & E-commerce**: Build blogs, portfolios, and fully manageable online stores.  
+- **Interactions & Animations**: Create dynamic, interactive websites that engage users.  
+- **SEO & Performance**: Optimized structure for speed and search engine ranking.  
+- **Custom Code**: Advanced integrations with HTML, CSS, JavaScript, and external APIs.  
+
+---
+
+## 🛠 Tools & Technologies
+
+| Tool / Technology | Proficiency |
+|------------------|------------|
+| Webflow           | ★★★★★     |
+| HTML & CSS        | ★★★★☆     |
+| JavaScript        | ★★★★☆     |
+| TypeScript        | ★★★★☆     |
+| Figma             | ★★★★☆     |
+| Adobe XD          | ★★★★☆     |
+| Photoshop         | ★★★★☆     |
+| Illustrator       | ★★★★☆     |
+| Bootstrap         | ★★★★☆     |
+| Tailwind CSS      | ★★★★☆     |
+| React             | ★★★★☆     |
+| Next.js           | ★★★★☆     |
+| Git & GitHub      | ★★★★★     |
+| Node.js           | ★★★★☆     |
+| Express.js        | ★★★★☆     |
+| REST APIs         | ★★★★☆     |
+| GraphQL           | ★★★☆☆     |
+| Zapier            | ★★★☆☆     |
+| Airtable          | ★★★★☆     |
+| Webflow CMS       | ★★★★★     |
+| Shopify           | ★★★★☆     |
+| WordPress         | ★★★★☆     |
+| SEO Tools         | ★★★★☆     |
+| Google Analytics  | ★★★★☆     |
+| Hotjar            | ★★★☆☆     |
+| Cloudflare        | ★★★★☆     |
+| VS Code           | ★★★★★     |
+| Chrome DevTools   | ★★★★★     |
+| Jira / Trello     | ★★★★☆     |
+
+---
+
+💬 **Feel free to reach out to discuss Webflow, UX, or front-end development!**
+
