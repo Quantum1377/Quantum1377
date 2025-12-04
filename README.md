@@ -1,45 +1,45 @@
-![código-fonte do desktop e papel de parede por codificação e programação.](pt.vecteezy.com)
+![Imagem de fundo de código fonte](images.pexels.com)
 # Hi there 👋, I am Abner
 
 🚀 Full Stack Developer | Open Source Enthusiast | Always learning
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NENTONNNNI)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511934678082)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anx444433)
+[![Twitter](img.shields.io)](twitter.com)
+[![WhatsApp](img.shields.io)](wa.me)
+[![Instagram](img.shields.io)](instagram.com)
 
 ---
 
 ### 🛠️ Tech Stack (Symbols Only)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=scala&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Perl](https://img.shields.io/badge/-Perl-39457E?style=flat&logo=perl&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Java](img.shields.io)
+![Spring Boot](img.shields.io)
+![Python](img.shields.io)
+![JavaScript](img.shields.io)
+![TypeScript](img.shields.io)
+![C++](img.shields.io)
+![C#](img.shields.io)
+![Go](img.shields.io)
+![Ruby](img.shields.io)
+![PHP](img.shields.io)
+![HTML5](img.shields.io)
+![CSS3](img.shields.io)
+![Rust](img.shields.io)
+![Kotlin](img.shields.io)
+![Swift](img.shields.io)
+![Scala](img.shields.io)
+![Dart](img.shields.io)
+![Perl](img.shields.io)
+![SQL](img.shields.io)
+![Node.js](img.shields.io)
+![Vue.js](img.shields.io)
+![React](img.shields.io)
+![Angular](img.shields.io)
+![Docker](img.shields.io)
+![Git](img.shields.io)
 
 ---
 
 ### ⏱️ GitHub Lifetime Stats
-![GitHub Lifetime](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quantum1377&theme=radical)
+![GitHub Lifetime](github-profile-summary-cards.vercel.app)
 
 ---
 
