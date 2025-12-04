@@ -20,8 +20,8 @@
 ---
 
 ### 📊 GitHub Stats
-![Abner's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quantum1377Tati&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Quantum1377Tati&theme=radical)
+![Abner's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quantum1377&show_icons=true&theme=radical&hide=issues)
+![Abner's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Quantum1377&theme=radical)
 
 ---
 
