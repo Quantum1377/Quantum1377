@@ -1,3 +1,6 @@
+<!-- Banner Image no topo -->
+![Header Image](./A_digital_graphic_design_features_a_personal_intro.png)
+
 # Hi there 👋, I am Abner
 
 🚀 Full Stack Developer | Open Source Enthusiast | Always learning
@@ -8,7 +11,7 @@
 
 ---
 
-### 🛠️ Tech Stack 
+### 🛠️ Tech Stack (Symbols Only)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -44,4 +47,5 @@
 
 ### 🔗 Connect with me
 Feel free to reach out via **Twitter, WhatsApp or Instagram**. Let's collaborate on awesome projects! 🚀
+
 
