@@ -1,6 +1,4 @@
-<!-- Banner Image no topo -->
-![Header Image](./A_digital_graphic_design_features_a_personal_intro.png)
-
+![código-fonte do desktop e papel de parede por codificação e programação.](pt.vecteezy.com)
 # Hi there 👋, I am Abner
 
 🚀 Full Stack Developer | Open Source Enthusiast | Always learning
@@ -47,5 +45,3 @@
 
 ### 🔗 Connect with me
 Feel free to reach out via **Twitter, WhatsApp or Instagram**. Let's collaborate on awesome projects! 🚀
-
-
