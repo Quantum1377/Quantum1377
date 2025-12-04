@@ -19,14 +19,13 @@
 
 ---
 
-### 📊 GitHub Stats
-![Abner's GitHub stats](https://github-readme-stats.vercel.app/api?username=Quantum1377&show_icons=true&theme=radical&hide=issues)
-![Abner's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Quantum1377&theme=radical)
+### ⏱️ GitHub Lifetime Stats
+![GitHub Lifetime](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Quantum1377&theme=radical)
 
 ---
 
-### 🎬 Fun GIF
-![Coding GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+### 🐍 Snake Animation
+![Snake Animation](https://raw.githubusercontent.com/Quantum1377/Quantum1377/master/snake.gif)
 
 ---
 
