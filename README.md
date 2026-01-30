@@ -56,7 +56,7 @@ Hi! 👋 I'm **Abner Ananias**, passionate about creating modern and functional 
 - **Custom Code**: Advanced integrations with HTML, CSS, JavaScript, and external APIs.  
 
 ---
-## 🔗 Connect with me Feel free to reach out via **Twitter, WhatsApp or Instagram**. Let's collaborate on awesome projects! 🚀
+## 🔗 Connect with me Feel free to reach out via **WhatsApp or Instagram**. Let's collaborate on awesome projects! 🚀
 ---
 
 💬 **Feel free to reach out to discuss Webflow, UX, or front-end development!**
